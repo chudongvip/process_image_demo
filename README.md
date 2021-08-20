@@ -10,8 +10,11 @@ Demo 主要由浅入深一步一步的引导大家对图片处理的理解，包
 大家可以按照一下顺序体验 Demo，来消化理解这里面的知识：
 
 - 获取图片任意像素点的颜色值
+  ![Demo 效果图](./get_image_pixel_rgba.gif)
 - 将图片致灰 & 下载图片
+  ![Demo 效果图](./processing_img_to_gray.gif)
 - 给图片添加马赛克 & 下载图片
+  ![Demo 效果图](./processing_img_add_mosaic.gif)
 - 获取摄像头，然后给视频加上各种滤镜或者将视频打上马赛克（待更新）
 - 解锁更多（AI 玩法....）
 
